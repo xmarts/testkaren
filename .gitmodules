@@ -1,0 +1,4 @@
+[submodule "xmarts/printnode_base"]
+	path = xmarts/printnode_base
+	url = git@github.com:xmarts/printnode_base.git
+	branch = 15.0
